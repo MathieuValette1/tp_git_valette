@@ -12,4 +12,4 @@ public class MyClass {
     
 }
 /// CECI EST UN COMMENTAIRE IMPORTANT
-///Essai conflit (cote Clémence)
+///Essai conflit (cote Clémence).
